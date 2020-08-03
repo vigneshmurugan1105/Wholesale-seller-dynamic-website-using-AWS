@@ -1,0 +1,2 @@
+# Wholesale-seller-dynamic-website-using-AWS
+• A dynamic website is hosted on the EC2 instance by installing the httpd services. The load balancer is created to maintain the network traffic on the server. • The images and videos used in the website are accessed from the S3 bucket. • The website domain name is registered in Route53 service and through hosted zone the website content is accessed from the EC2 instance.
